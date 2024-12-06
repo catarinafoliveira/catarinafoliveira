@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## NodeJS APIs
-###:computer:MyAPI (v1) :link:[repository](https://github.com/catarinafoliveira/myApi_v1)
+###:computer:MyAPI (v1) 
+:link:[repository](https://github.com/catarinafoliveira/myApi_v1)
 <!-- Available [here](https://github.com/catarinafoliveira/myApi_v1) -->
 
 A REST API to interact with information regarding persons, drivers and their cars.
@@ -42,26 +43,36 @@ classDiagram
     Driver <-- Car : has owner
 ```
 
-###:computer:MyAPI (v2) :link:[repository](https://github.com/catarinafoliveira/myApi_v2)
+###:computer:MyAPI (v2) 
+:link:[repository](https://github.com/catarinafoliveira/myApi_v2)
 
 A REST API to interact with information regarding persons, drivers and their cars.
 Similar to [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1), but using classes and MVC.
 
-###:computer:MyAPI (v3) :link:[repository](https://github.com/catarinafoliveira/myApi_v3)
+###:computer:MyAPI (v3) 
+:link:[repository](https://github.com/catarinafoliveira/myApi_v3)
 
 A REST API to interact with information regarding persons, drivers and their cars.
 Similar to [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1), but using authentication and authorisation.
 
 ## Angular Applications
-###:computer:MyFrontend (v1) :link:[repository](https://github.com/catarinafoliveira/AngularFrontend_v1)
+###:computer:MyFrontend (v1) 
+:link:[repository](https://github.com/catarinafoliveira/AngularFrontend_v1)
+
 Frontend for [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1)
 
-###:computer:MyFrontend (v3) :link:[repository](https://github.com/catarinafoliveira/AngularFrontend_v2)
+###:computer:MyFrontend (v3) 
+:link:[repository](https://github.com/catarinafoliveira/AngularFrontend_v2)
+
 Frontend for [MyApi (v3)](https://github.com/catarinafoliveira/myApi_v3)
 
 ## Vue Applications
-###:computer:MyFrontend (v1) :link:[repository](https://github.com/catarinafoliveira/myFrontend_v1)
+###:computer:MyFrontend (v1) 
+:link:[repository](https://github.com/catarinafoliveira/myFrontend_v1)
+
 Frontend for [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1)
 
-###:computer:MyFrontend (v3):link:[repository](https://github.com/catarinafoliveira/myFrontend_v3)
+###:computer:MyFrontend (v3)
+:link:[repository](https://github.com/catarinafoliveira/myFrontend_v3)
+
 Frontend for [MyApi (v3)](https://github.com/catarinafoliveira/myApi_v3)
