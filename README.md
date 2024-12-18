@@ -48,12 +48,16 @@ Similar to [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1), but usin
 :link:[repository](https://github.com/catarinafoliveira/myApi_v3): A REST API to interact with information regarding persons, drivers and their cars.
 Similar to [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1), but using authentication and authorisation.
 
-## Angular Applications
+## Angular Applications (v18)
 * :computer:MyFrontend (v1) 
 :link:[repository](https://github.com/catarinafoliveira/AngularFrontend_v1): Frontend for [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1)
 
 * :computer:MyFrontend (v3) 
 :link:[repository](https://github.com/catarinafoliveira/AngularFrontend_v2): Frontend for [MyApi (v3)](https://github.com/catarinafoliveira/myApi_v3)
+
+## Angular Applications (v19)
+* :point_right: :computer:MyFrontend (v1) 
+:link:[repository](https://github.com/catarinafoliveira/catarinafoliveira-myAngularV19Frontend_v1): Frontend for [MyApi (v1)](https://github.com/catarinafoliveira/myApi_v1)
 
 ## Vue Applications
 * :computer:MyFrontend (v1) 
